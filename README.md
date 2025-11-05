@@ -237,5 +237,9 @@ else:
                 else:
                     st.write("🎞️ Sin póster disponible")
 
-                    
+      **Enlace paa acceder al sistema Recomendador de peliculas**
+      https://github.com/henrymunoz/cineapp
+
+      
+      
 
